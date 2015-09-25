@@ -39,6 +39,7 @@ public class MainActivity extends /*AppCompat*/ Activity  {
 
         private static final String[] sampleACTV = new String[] {
                 "android", "iphone", "blackberry"
+                
         };
 
         @Override
